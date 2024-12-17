@@ -31,11 +31,11 @@
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align="left">
-<a href="https://twitter.com/devshariful99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devshariful99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devshariful99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devshariful99" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/devshariful99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devshariful99" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/devshariful99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devshariful99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/devshariful99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devshariful99" height="30" width="40" /></a>
+<a href="https://twitter.com/devshariful99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devshariful99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devshariful99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devshariful99" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/devshariful99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devshariful99" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/devshariful99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devshariful99" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/devshariful99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devshariful99" height="30" width="40" /></a>
 </p>
 
 
